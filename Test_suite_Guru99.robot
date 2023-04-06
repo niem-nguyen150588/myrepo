@@ -33,7 +33,7 @@ Login the guru99
     Set Local Variable    ${Text1}    - 16%
     Open Guru99 on FF
     Maximize Browser Window
-    # Scroll Element Into View    locator
+    # Scroll Element Into View    locator33333
     Click Button    ${Button1}
     Click Link    ${Link1}
     Page Should Contain    ${Text1} 
