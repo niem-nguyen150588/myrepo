@@ -1,0 +1,21 @@
+1679753943589	geckodriver	INFO	Listening on 127.0.0.1:56673
+1679753943602	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56674" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vp/87s66ptx7k39w763vq3mc00h0000gn/T/rust_mozprofileMKAJXm"
+1679753944115	Marionette	INFO	Marionette enabled
+1679753944146	Marionette	INFO	Listening on port 56682
+Read port: 56682
+WebDriver BiDi listening on ws://127.0.0.1:56674
+1679753944550	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/87s66ptx7k39w763vq3mc00h0000gn/T/rust_mozprofileMKAJXm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56674/devtools/browser/6980250c-3036-43b4-9e0e-3367921979b0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/t4_aWeuLa_BO9IGQ3R3HcB0TaFNoER_W7PQrl5RFgV0.js line 2 > eval line 596 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+JavaScript error: https://demo.guru99.com/insurance/v1/index.php, line 1: ReferenceError: validateLogin is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/t4_aWeuLa_BO9IGQ3R3HcB0TaFNoER_W7PQrl5RFgV0.js line 2 > eval line 1041 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/t4_aWeuLa_BO9IGQ3R3HcB0TaFNoER_W7PQrl5RFgV0.js line 2 > eval line 5395 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+1679754907375	Marionette	INFO	Stopped listening on port 56682
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

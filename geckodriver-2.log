@@ -1,0 +1,13 @@
+1678114528419	geckodriver	INFO	Listening on 127.0.0.1:54248
+1678114528438	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54249" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vp/87s66ptx7k39w763vq3mc00h0000gn/T/rust_mozprofileFUywHn"
+1678114528925	Marionette	INFO	Marionette enabled
+1678114528957	Marionette	INFO	Listening on port 54260
+Read port: 54260
+WebDriver BiDi listening on ws://127.0.0.1:54249
+1678114529383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/87s66ptx7k39w763vq3mc00h0000gn/T/rust_mozprofileFUywHn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54249/devtools/browser/e7f7f554-f898-43e0-8c5b-227d6521f053
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hTGw0iTttGPYNj9jnBVYIcaXVb8tbW1IYYT-gsExgL0.js line 2 > eval line 5121 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hTGw0iTttGPYNj9jnBVYIcaXVb8tbW1IYYT-gsExgL0.js line 2 > eval line 7348 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678196693440	Marionette	INFO	Stopped listening on port 54260
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

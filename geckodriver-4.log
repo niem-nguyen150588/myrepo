@@ -1,0 +1,20 @@
+1679753729347	geckodriver	INFO	Listening on 127.0.0.1:56180
+1679753729361	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56181" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vp/87s66ptx7k39w763vq3mc00h0000gn/T/rust_mozprofilerOHGgw"
+1679753729903	Marionette	INFO	Marionette enabled
+1679753729952	Marionette	INFO	Listening on port 56188
+Read port: 56188
+WebDriver BiDi listening on ws://127.0.0.1:56181
+1679753730355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/87s66ptx7k39w763vq3mc00h0000gn/T/rust_mozprofilerOHGgw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56181/devtools/browser/38d66ca3-2e43-4450-ae48-acd18f296295
+JavaScript warning: https://pagead2.googlesyndication.com/bg/t4_aWeuLa_BO9IGQ3R3HcB0TaFNoER_W7PQrl5RFgV0.js line 2 > eval line 2689 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+JavaScript error: https://demo.guru99.com/insurance/v1/index.php, line 1: ReferenceError: validateLogin is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/t4_aWeuLa_BO9IGQ3R3HcB0TaFNoER_W7PQrl5RFgV0.js line 2 > eval line 7130 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+1679753833103	Marionette	INFO	Stopped listening on port 56188
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
